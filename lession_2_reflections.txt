@@ -14,3 +14,9 @@ change?
 
 After each change I can add my change to staging area and use git diff as well 
 as git diff --staged to verify if im adding one logical change.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+Branches can be used for making experimental features but still want to make
+sure we have a working directory. 
