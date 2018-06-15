@@ -9,4 +9,8 @@ What value do you think it offers?
 Staging area acts as an intermediate between the two stages. It lets us
 control the git repo with more fine tuned personalizations.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
 
+After each change I can add my change to staging area and use git diff as well 
+as git diff --staged to verify if im adding one logical change.
