@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+diff is an inbuilt tool in linux which highlighted when lines of code were 
+changed. The different lines of code were highlighted with + and - signs.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+Easy to access to older versions makes it easier to roll back in case of a 
+mistake. It also makes highlighting mistakes and changes easier. 
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+Automatically saved versions has the advantage of not having to remember to 
+save or accidentally losing an unsaved file due to technical errors.Manual 
+saving offers much more fine tuning of the saving and lets us make logical
+commits.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log is used to see the history of all commits made with id and a commit 
+title. git diff is used to see changes between two commits in an easy readable
+manner.
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+version control lets us change code without having to be afraid as it lets us 
+revert back to an old version very easily.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I will be using git as a dvc for all my future projects to get used to it.
+
+
+
+
